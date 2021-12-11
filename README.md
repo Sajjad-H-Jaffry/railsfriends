@@ -1,24 +1,7 @@
-# README
+# FRIENDS LIST APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello My name is Sajjad Jaffry and I work at novatech software
 
-Things you may want to cover:
+This is my Ruby on Rails Friends list App
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Follow me at https://www.linkedin.com/in/sajjad-h-jaffry-452b2a216/
